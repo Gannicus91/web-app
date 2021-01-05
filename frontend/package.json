@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Gannicus91/web-app#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "jquery": "^3.4.1",
     "js-cookie": "^2.2.1",
